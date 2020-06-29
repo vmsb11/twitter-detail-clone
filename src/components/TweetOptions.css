@@ -1,0 +1,28 @@
+.TweetOptions {
+
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+a.LinkComment:link {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkComment:visited {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkComment:active {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkComment:hover {color: #36AAF7; font-size: 24px;}
+
+a.LinkRT:link {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkRT:visited {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkRT:active {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkRT:hover {color: green; font-size: 24px;}
+
+a.LinkLike:link {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkLike:visited {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkLike:active {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkLike:hover {color: red; font-size: 24px;}
+
+a.LinkSave:link {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkSave:visited {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkSave:active {text-decoration: none; font-size: 24px; color: gray;} 
+a.LinkSave:hover {color: #36AAF7; font-size: 24px;}
